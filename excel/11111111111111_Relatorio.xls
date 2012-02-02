@@ -1,0 +1,109 @@
+        <html xmlns:o="urn:schemas-microsoft-com:office:office"
+               xmlns:x="urn:schemas-microsoft-com:office:excel"
+                xmlns="http://www.w3.org/TR/REC-html40">
+
+                <head>
+                <meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+                <meta name=ProgId content=Excel.Sheet>
+                <!--[if gte mso 9]><xml>
+                 <o:DocumentProperties>
+                  <o:LastAuthor>Sriram</o:LastAuthor>
+                  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+                  <o:Version>10.2625</o:Version>
+                 </o:DocumentProperties>
+                 <o:OfficeDocumentSettings>
+                  <o:DownloadComponents/>
+                 </o:OfficeDocumentSettings>
+                </xml><![endif]-->
+                <style>
+                <!--table
+                    {mso-displayed-decimal-separator:"\.";
+                    mso-displayed-thousand-separator:"\,";}
+                @page
+                    {margin:1.0in .75in 1.0in .75in;
+                    mso-header-margin:.5in;
+                    mso-footer-margin:.5in;}
+                tr
+                    {mso-height-source:auto;}
+                col
+                    {mso-width-source:auto;}
+                br
+                    {mso-data-placement:same-cell;}
+                .style0
+                    {mso-number-format:General;
+
+                    mso-rotate:0;
+
+                    color:windowtext;
+                    font-size:10.0pt;
+                    font-weight:400;
+                    font-style:normal;
+                    text-decoration:none;
+                    font-family:Arial;
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+
+                    mso-style-name:Normal;
+                    mso-style-id:0;}
+                td
+                    {mso-style-parent:style0;
+                    padding-top:1px;
+                    padding-right:1px;
+                    padding-left:1px;
+
+                    color:windowtext;
+                    font-size:10.0pt;
+                    font-weight:400;
+                    font-style:normal;
+                    text-decoration:none;
+                    font-family:Arial;
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+                    mso-number-format:General;
+
+
+
+                    mso-rotate:0;}
+                .xl24
+                    {mso-style-parent:style0; }
+                -->
+                </style>
+                <!--[if gte mso 9]><xml>
+                 <x:ExcelWorkbook>
+                  <x:ExcelWorksheets>
+                   <x:ExcelWorksheet>
+                    <x:Name>NOME_PLANILHA</x:Name>
+                    <x:WorksheetOptions>
+                     <x:Selected/>
+                     <x:ProtectContents>False</x:ProtectContents>
+                     <x:ProtectObjects>False</x:ProtectObjects>
+                     <x:ProtectScenarios>False</x:ProtectScenarios>
+                    </x:WorksheetOptions>
+                   </x:ExcelWorksheet>
+                  </x:ExcelWorksheets>
+                  <x:WindowHeight>10005</x:WindowHeight>
+                  <x:WindowWidth>10005</x:WindowWidth>
+                  <x:WindowTopX>120</x:WindowTopX>
+                  <x:WindowTopY>135</x:WindowTopY>
+                  <x:ProtectStructure>False</x:ProtectStructure>
+                  <x:ProtectWindows>False</x:ProtectWindows>
+                 </x:ExcelWorkbook>
+                </xml><![endif]-->
+                </head>
+
+                <body link=blue vlink=purple>
+                <table x:str border=1 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr style='border-top: none; border-left: none; border-right: none;'><td class=xl24 width=64 colspan=12 align=center style='font-size: 24pt; padding-bottom: 5px;' >
+           <font style='color: #003366; font-family: Arial Rounded MT Bold;'>Sys</font>
+           <font style='color: #0099cc; font-family: Franklin Gothic Book; font-weight: bold;'>Projur</font>
+
+                           </td></tr><tr style='border-top: none; border-left: none; border-right: none;'><td class=xl24 width=64 colspan=12 align=center style='font-size: 10pt; padding-bottom: 5px;' >
+           <font style='color: black; font-family: ;'>Sistema de Controle de Processos Jurídicos</font>
+           <font style='color: black; font-family: ; font-weight: bold;'></font>
+
+                           </td></tr><tr style='border-top: none; border-left: none; border-right: none;'><td class=xl24 width=64 colspan=12 align=right style='font-size: 10pt; padding-bottom: 5px;' >
+           <font style='color: black; font-family: ;'>Relatório gerado em </font>
+           <font style='color: black; font-family: ; font-weight: bold;'>23/01/2011 - 19:27:07</font>
+
+                           </td></tr><tr><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Nº Processo</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Tipo Processo</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Descrição</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Justiça</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Instancia</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Cidade</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Juizo</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Data de Entrada</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Tipo da Ação</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Assunto</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Situação</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Procurador</td></tr><tr><td class=xl24 width=64 >11111111111111</td><td class=xl24 width=64 >Concurso</td><td class=xl24 width=64 >sfsdfdsfsdf</td><td class=xl24 width=64 >Federal</td><td class=xl24 width=64 >1º Instancia</td><td class=xl24 width=64 align='center' > --- </td><td class=xl24 width=64 align='center' > --- </td><td class=xl24 width=64 >23/01/2011 - 12:43:27</td><td class=xl24 width=64 >zxczxcxzc</td><td class=xl24 width=64 >asdsjhgasdj</td><td class=xl24 width=64 >Normal</td><td class=xl24 width=64 >Maycon Torres</td></tr><tr></tr><tr></tr><tr><td class=xl24 width=64 colspan=3 bgcolor=#ffff00 align=left style='font-weight: bold;' >Partes do Processo</td></tr><tr><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Ordem</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Nome</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Parte</td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >Maria</td><td class=xl24 width=64 >impetrado</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >Cecília</td><td class=xl24 width=64 >Outro</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >Pedro</td><td class=xl24 width=64 >Outro</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >Carlos</td><td class=xl24 width=64 >parte-contrária</td></tr><tr></tr><tr></tr><tr style='border-top: none; border-left: none; border-right: none;'><td class=xl24 width=64 colspan=8 align=left style='font-size: 10pt; padding-bottom: 5px;' bgcolor=#00ff66 >
+           <font style='color: black; font-family: ; font-weight: bold;'>Movimentações do Processo</font> </td><td class=xl24 width=64 colspan=3 align=left style='font-size: 10pt; padding-bottom: 5px;' bgcolor=#ff6600>
+           <font style='color: black; font-family: ; font-weight: bold;'>Movimentação a Executar</font></td></tr><tr><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Nº</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Tipo</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Evento</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Data Entrada</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Perfil</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Movimentado Por</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Observação </td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Ciente</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Data Limite</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Status</td><td class=xl24 width=64 colspan=0 bgcolor=#99ccff align=center style='font-weight: bold;' >Pendencia</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >a executar</td><td class=xl24 width=64 >qwewqeqwe</td><td class=xl24 width=64 >22/01/2011 - 20:41:24</td><td class=xl24 width=64 >Administrador do Sistema</td><td class=xl24 width=64 >Maycon Torres</td><td class=xl24 width=64 >zxczxcxzc</td><td class=xl24 width=64 >Não</td><td class=xl24 width=64 >13/01/2011</td><td class=xl24 width=64 >Urgente</td><td class=xl24 width=64 >asdasdasd</td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >executada</td><td class=xl24 width=64 >asldkaslkdj</td><td class=xl24 width=64 >18/01/2011 - 17:03:12</td><td class=xl24 width=64 >Administrador do Sistema</td><td class=xl24 width=64 >Maycon Torres</td><td class=xl24 width=64 >aslkdjlaskdj</td><td class=xl24 width=64 >Não</td><td class=xl24 width=64 align='center' > --- </td><td class=xl24 width=64 align='center' > --- </td><td class=xl24 width=64 align='center' > --- </td></tr></table></body></html>

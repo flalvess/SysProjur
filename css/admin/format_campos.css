@@ -1,0 +1,112 @@
+.container_field_aux {
+    float: left;
+    width: 99.9%;
+    padding-left: 0px;
+    padding-top: 2px;
+    font:normal 12px arial;
+    /*background-color: #f8fafc;*/
+    background-color: white;
+
+}
+.container_field_aux label {
+    
+    font:bold 12px arial;
+    text-align: center;
+/*   background: #86EF94;*/
+    /*background: #C1E1FF;*/
+    /*background: #408080;*/
+    /*background: #99CCFF; */
+   /* ;background: #BDB76B;*/
+    /*;background: #a9d5fb;*/
+    ;background: #C1E1FF;
+   /* border: 1px solid #003399; */
+    border: 1px solid #1E90FF;
+
+    display: block;
+    text-align: center;
+/*    color: #8848c8;*/
+    /*color: #007575;*/
+    /*color: #333333;*/
+    color: black;
+
+}
+.field_aux,.field_aux_grande {
+/*    border:1px solid #999;*/
+      padding-bottom: 2px;
+}
+.field_aux label,.field_aux_grande label {
+    padding: 1px 0;
+    margin-bottom: 2px;
+}
+.field_aux {
+
+    float: left;
+    width: 150px;
+    min-height: 37px;
+    background: #fff;
+    padding:0;
+    margin-right: 1px;
+    margin-left: 1px;
+    text-align: center;
+    padding-bottom: 0px;
+    border: 1px solid #ADD8E6;
+    
+}
+.field_aux_grande {
+
+    float: left;
+    width: 621px;
+    background: #fff;
+    min-height: 37px;
+    margin-right: 1px;
+    margin-left: 1px;
+    border: 1px solid #ADD8E6;
+}
+
+.field_aux_grande label {
+
+    text-align: left;
+    padding-left: 10px;
+    font-weight: bold;    
+    
+
+}
+.field_aux_grande span {
+
+    display: block;
+    padding-left: 10px;
+
+   
+}
+.container_partes {
+
+   display: block;
+   padding-left: 10px;
+   
+}
+/*CAMPOS DE INSERÇÃO*/
+.container_field_new {
+
+    float: left;
+    width: 100%;
+    margin-bottom: 2px;
+
+   
+}
+.container_field_new .field {
+    float: left !important;
+    width: 240px !important;
+    padding: 0 !important;
+    padding-left: 10px !important;
+    
+}
+.container_field_new span.aux_field {
+    
+    width: 228px !important;
+}
+.field_new_right label.lbl {
+    width: 100px !important;
+}
+.field_new_right span.aux_field {
+    margin-left: 106px !important;
+}

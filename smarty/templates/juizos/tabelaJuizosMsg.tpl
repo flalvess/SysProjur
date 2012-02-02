@@ -1,0 +1,1 @@
+<div style="background-color: #FFFF99; text-align: center; padding: 5px 0 5px 0; border-top: 1px solid #A9D5FB; border-bottom: 1px solid #A9D5FB; "><h4 class="no_encontrado"><img src="{$smarty.const.HTTP_URL}img/admin/warn.png" style="vertical-align: middle; margin: 0 auto;"/>&nbsp;&nbsp;Nenhum resultado foi encontrado!!!</h4></div>
